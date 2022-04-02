@@ -4,4 +4,5 @@ public class PracaWGrupie {
     // Zmiana 1
 
     // Coś innego - psuję Ci!
+    // la la la
 }
