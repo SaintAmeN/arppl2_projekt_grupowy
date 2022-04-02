@@ -5,4 +5,5 @@ public class PracaWGrupie {
 
     // Coś innego - psuję Ci!
     // la la la
+    // ha ha ha
 }
